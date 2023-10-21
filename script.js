@@ -18,6 +18,6 @@ function createTable() {
     }
 }
 
-// Attach the createTable function to the button click event
-const createTableButton = document.getElementById("createTableButton");
-createTableButton.addEventListener("click", createTable);
+// // Attach the createTable function to the button click event
+// const createTableButton = document.getElementById("createTableButton");
+// createTableButton.addEventListener("click", createTable);
